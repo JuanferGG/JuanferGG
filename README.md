@@ -24,7 +24,7 @@ r
 
 ## 🌐 Socials
 
-[![GitHub Pages](https://img.shields.io/badge/Portafolio-%23303030?style=for-the-badge&logo=GitHub)](https://juandiego-arenas.github.io/portfolio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/juan-diego-arenas-cuellar-a5a234252/)
+<!-- [![GitHub Pages](https://img.shields.io/badge/Portafolio-%23303030?style=for-the-badge&logo=GitHub)](https://juandiego-arenas.github.io/portfolio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/juan-diego-arenas-cuellar-a5a234252/) -->
 
 ## 💻 Languages and Tools
 

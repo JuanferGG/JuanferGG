@@ -73,7 +73,7 @@ r
 
 ![JuanferGG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanferGG&show_icons=true&theme=transparent)<br/>
 ![git2](https://github-readme-streak-stats.herokuapp.com/?user=JuanferGG&theme=tokyonight&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanferGG&layout=donut-vertical)](https://github.com/JuanferGG/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanferGG&layout=donut-vertical&theme=transparent)](https://github.com/JuanferGG/github-readme-stats)
 
 </div>
 

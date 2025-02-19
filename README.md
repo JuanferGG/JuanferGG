@@ -9,9 +9,6 @@ r
 - Explore my portfolio to witness firsthand how my commitment to excellence and love for coding translate into impactful projects. 🌐 Let's embark on a journey together where creativity meets functionality, and where every line of code tells a story of innovation. 🚀💻
 <br>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=JuanferDev&label=Profile%20Views&color=3&icon=2&pretty=false" />
-</a>
 
 <!-- ## 💫 About Me
 

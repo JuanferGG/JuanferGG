@@ -1,7 +1,10 @@
 <h1 align="center">👋 Hi, I'm Juan Fernando Calderon</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=02F710&width=435&lines=%40JuanferDev;%23Javascript+Developer;%23Node.Js+Developere" alt="Typing SVG" /></a>
-
+<div >
+  <a href="https://git.io/typing-svg" style="text-align: center; width: "100%">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=02F710&width=435&lines=%40JuanferDev;%23Javascript+Developer;%23Node.Js+Developere" alt="Typing SVG" />
+  </a>
+</div>
 - 👋 Greetings! I'm Juan Fernando, a dynamic software developer and skilled backend programmer. My expertise spans cutting-edge technologies, including JavaScript, Node.js and React.js. 🚀 With a passion for continuous learning, I'm committed to staying ahead by embracing new technologies while refining my existing skills.
 r
 - What sets me apart is not just my technical proficiency, but also my knack for leadership and effective teamwork. 🤝 I thrive in collaborative environments, bringing innovative solutions to the table and fostering a positive team spirit.

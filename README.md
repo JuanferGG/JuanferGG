@@ -67,7 +67,7 @@ r
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<!--
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -77,7 +77,6 @@ r
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanferGG&layout=donut-vertical&theme=transparent)](https://github.com/JuanferGG/github-readme-stats)
 
 </div>
--->
 
 ## 🏆 GitHub Trophies
 

@@ -73,7 +73,7 @@ r
 <div align="center">
 
   
-![JuanferGG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanferGG&show_icons=true&theme=transparent)<br/> aún error de despliegue del proyecto.
+![JuanferGG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanferGG&show_icons=true&theme=transparent)<br/>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=JuanferGG)](https://git.io/streak-stats)<br/> aún error en el fetch --->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanferGG&layout=donut-vertical&theme=transparent)](https://github.com/JuanferGG/github-readme-stats) Error en el despliegue aún --->
 
